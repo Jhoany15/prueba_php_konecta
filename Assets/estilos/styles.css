@@ -1,0 +1,7 @@
+.navbar {
+    background-color: pink !important;
+}
+  
+.navbar-nav .nav-link {
+    color: brown !important;
+  }
